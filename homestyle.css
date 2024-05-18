@@ -272,7 +272,7 @@ button:hover {
     width: 25px;
     height: 3px;
     margin: 5px auto;
-    background-color: gold;
+    background-color: rgb(255, 255, 255);
     transition: 0.3s;
 
 }
@@ -308,7 +308,7 @@ button:hover {
         .menu-toggle span:after,
         .menu-toggle span:nth-child(4) {
             display: block;
-            background-color: #ffd700;
+            background-color: #F0FFFF;
             height: 5px;
             width: 30px;
             transition: all 0.3s;
@@ -372,7 +372,7 @@ button:hover {
         }
 
         .menu li a:hover {
-            color: #ffd700;
-            border-color: #ffd700;
+            color: #F0FFFF;
+            border-color: #F0FFFF;
 
         }
