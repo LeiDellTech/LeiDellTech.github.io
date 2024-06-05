@@ -48,3 +48,5 @@
 主力机（FireBat Mini N100）今意外修好，所以赶紧改图床。
 更新[计算器]1个应用
 删去<a href="https://icp.k9b.cn/?id=20240308" target="_blank">喵喵ICP备案 20240308号</a>
+
+# 本Readme于2024年6月5日停止更新，如要查看Readme，请移步:[LeiDell手表应用市场更新日志](https://leidell.xy977.com/LeiDellAPP-Readme/)
