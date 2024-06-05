@@ -33,6 +33,18 @@
 
 2024年5月29日
 
-更新2个应用[Phira]电脑版，感谢DragonKY提出建议。
-第二个应用是[抖音（不可搜索登录]，
-马上6.1了，今年过了就再也没有了
+更新2个应用[Phira]电脑版，感谢DragonPG提出建议。
+第二个应用是[抖音（不可搜索登录) ]，
+马上6.1了，祝大家儿童节快乐
+
+版本 0.0.5
+
+2024年6月4日
+
+今中午主力机  (FireBat Mini N100）被我拆坏，暂时更新不了[LeiDell Blog](https://LeiDell.xy977.com)，但是备用机（Microsoft Surface 3）还能用，所以暂且更新[LeiDell应用下载站](https://LeiDellAPP.xy977.com)
+等后期买来 M2.硬盘盒才可以更新，还有6月2日那一天晚，好友 薄荷の尾巴(   [薄荷の小屋](https://hoshiroko.com/) 站长）提醒我图床ImgTp崩了，所有图片全部失效(包括我头像)，所以抢先恢复图片，不更新应用。
+
+2024年6月5日
+主力机（FireBat Mini N100）今意外修好，所以赶紧改图床。
+更新[计算器]1个应用
+删去<a href="https://icp.k9b.cn/?id=20240308" target="_blank">喵喵ICP备案 20240308号</a>
