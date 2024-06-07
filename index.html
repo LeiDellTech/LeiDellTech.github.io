@@ -53,16 +53,33 @@
 
 
     <div class="t-container">
-    <img src="favicon.ico" alt="封面">
+    <style>  
+  #rotatable-image {  
+    transition: transform 0.5s ease-in-out; /* 添加过渡效果使旋转更平滑 */  
+    cursor: pointer; /* 当鼠标悬停在图片上时显示手形图标 */  
+  }  
+</style>  
+</head>  
+<body>  
+  
+<img id="rotatable-image" src="LOGO NO C.png" alt="logo" style="border-radius:50%;width:15%";">  
+  
+<script>  
+  let degree = 0; // 初始旋转角度  
+  const img = document.getElementById('rotatable-image');  
+  
+  img.addEventListener('click', function() {  
+    degree = (degree + 360) ; // 每次点击增加360度 
+    img.style.transform = `rotate(${degree}deg)`; // 更新CSS变换以应用旋转  
+  });  
+</script>  
     <h1>LeiDell手表应用下载站</h1>
-    <p class="developer-info"> LeiDell邮箱：LeiDell@Yeah.net </p>
-    <p class="developer-info">LeiDell权限所有</p> 
-    </div>                                                                          
+        </div>                                                                          
 
     <div class="container">
         <div class="app-list">
         <div class="site-description">
-    <p>这是LeiDellの手表应用下载站 原版网址：https://chiyang001.github.io/APP         经过@e装机授权  </p>
+    <p>这是LeiDellの手表应用下载站  经过@e装机授权   LeiDell权限所有 </p> 原版网址：<a href="https://chiyang001.github.io/APP/">华为儿童手表应用下载站</a>        
     <div class="center-text">
 	<h1>—所有应用—</h1>
     </div>
